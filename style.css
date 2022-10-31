@@ -316,13 +316,13 @@ footer ul li a:hover {
 }
 /* Inner Pages */
 .bg-falcon-9 {
-  background-image: url("../image assets/falcon-9.webp");
+  background-image: url("../images/falcon-9.webp");
 }
 .bg-falcon-heavy {
-  background-image: url("../image assets/falcon-heavy.webp");
+  background-image: url("../images/falcon-heavy.webp");
 }
 .bg-dragon {
-  background-image: url("../image assets/dragon.webp");
+  background-image: url("../images/dragon.webp");
 }
 .section-animate {
   animation: fadeIn 2s ease-in-out;
